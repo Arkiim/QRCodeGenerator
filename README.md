@@ -1,6 +1,6 @@
 # QRCodeGenerator
 
-Program asks for an url then creates a QRCode leading to that url. <br> The batch (.bat) file prompts the user for the url then execute a .jar file containing the project.
+Program that asks for an url then creates a QRCode leading to that url. <br> The batch (.bat) file prompts the user for the url then execute a .jar file containing the project.
 ___________________________________________________________________________________________________________________________
 
 NB: Archive already contains Java JDK 15 in it.<br>
